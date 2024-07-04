@@ -59,7 +59,7 @@ Then run prepare_MIND-dataset.py to preprocess the data.
 
 ##  Get two important files
 
-1. Run "generate_similarities.py" to get the data file for comparative learning
+1. Run "generate_similarities.py" to get the data file for contrastive learning
 2. Run "generate_similarity_result_history.py" to get the data file for curriculum learning
 
 ## Run
